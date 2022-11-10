@@ -1,2 +1,5 @@
-# Syaffati_Salsabil_21041044_3F_UTS
+# NAMA Syaffati Salsabil
+# NIM 21041044
+# Kelas 3F
+# UTS
  
