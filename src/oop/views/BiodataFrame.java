@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package oop.views;
 
 import oop.model.Biodata;
@@ -10,7 +5,7 @@ import oop.views.PreviewDialog;
 
 /**
  *
- * @author asd-lptp
+ * @author Syaffati Salsabil
  */
 public class BiodataFrame extends javax.swing.JFrame {
 

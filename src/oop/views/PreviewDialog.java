@@ -1,15 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package oop.views;
 
 import oop.model.Biodata;
 
 /**
  *
- * @author asd-lptp
+ * @author Syaffati Salsabil
  */
 public class PreviewDialog extends javax.swing.JFrame {
 
@@ -201,7 +196,7 @@ public class PreviewDialog extends javax.swing.JFrame {
             new PreviewDialog().setVisible(true);
         });
     }
-    //7. Tambahkan Kode yang berfungsi untuk menampilkan data yang sudah di kirim dari BiodataFrame.
+    // 7. Tambahkan Kode yang berfungsi untuk menampilkan data yang sudah di kirim dari BiodataFrame.
     public void updateDialog(Biodata data) {
 	jLabel1.setText(data.getName());
         jLabel2.setText(data.getKelas());
